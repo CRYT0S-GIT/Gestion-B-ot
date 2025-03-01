@@ -1,4 +1,4 @@
-# Gestion-B-ot
+# Gestion-Bot
 Bot discord // Gestion, Management V. 1.0
 
 
